@@ -24,15 +24,14 @@ pip --version
 # install virtualenv package
 pip install virtualenv
 
-VENVNAME=venv # choose approapriate name for your virtual environment
-INTERPRETER=which python3 # or any other interpreter, e.g. $HOME/.local/lib/python-3.9.7/bin/python3
-virtualenv $VENVNAME --python=$INTERPRETER
+INTERPRETER=$"which python3" # or any other interpreter, e.g. $HOME/.local/lib/python-3.9.7/bin/python3
+virtualenv paul_venv --python=$INTERPRETER
 
 # install anything in requirements.txt:
-$VENVNAME/bin/python -m pip install -r requirements.txt 
+paul_venv/bin/python -m pip install -r requirements.txt 
 
 # create jupyter kernel based on the environment:
-$VENVNAME/bin/python -m ipykernel install --user --name=$VENVNAME
+paul_venv/bin/python -m ipykernel install --user --name=paul_venv
 
 # create folder for large files:
 mkdir data/large_files

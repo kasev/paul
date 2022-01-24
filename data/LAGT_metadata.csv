@@ -1231,7 +1231,7 @@ tlg2003.tlg013.perseus-grc1.xml,Julian the Emperor,,Epistulae,,27219,tlg2003,tlg
 tlg2003.tlg017.perseus-grc1.xml,Julian the Emperor,,Contra Galilaeos,,10663,tlg2003,tlg2003.tlg017,A.D. 4,3.5,{'3.5': 1},,pagan,,,,0,0,Philosophici/-ae
 tlg2016.tlg001.1st1K-lat1.xml,The Passion of Saints Perpetua and Felicity,,The Passion of Saints Perpetua and Felicity,,3460,tlg2016,tlg2016.tlg001,p. A.D. 3,4,"{'14.5': 0.0002, '13.5': 0.0005, '12.5': 0.001, '11.5': 0.002, '10.5': 0.0039, '9.5': 0.0078, '8.5': 0.0156, '7.5': 0.0312, '6.5': 0.0625, '5.5': 0.125, '4.5': 0.25, '3.5': 0.5}",,christian,,,,0,0,[]
 tlg2018.tlg001.opp-grc1.xml,Eusebius,,Praeperatio Evangelica,,234466,tlg2018,tlg2018.tlg001,A.D. 4,3.5,{'3.5': 1},3.5,christian,,,,111743,11311,Theologici
-tlg2018.tlg002.perseus-grc1.xml,Eusebius of Caesarea,,Historia ecclesiastica,,103468,tlg2018,tlg2018.tlg002,A.D. 4,3.5,{'3.5': 1},3.5,christian,,,,0,0,Theologici
+tlg2018.tlg002.perseus-grc1.xml,Eusebius,,Historia ecclesiastica,,103468,tlg2018,tlg2018.tlg002,A.D. 4,3.5,{'3.5': 1},3.5,christian,,,,0,0,Theologici
 tlg2018.tlg003.opp-grc1.xml,Eusebius,,De Martyribus Palaestinae (Recensio Brevior),,7878,tlg2018,tlg2018.tlg003,A.D. 4,3.5,{'3.5': 1},3.5,christian,,,,4016,223,Theologici
 tlg2018.tlg005.opp-grc1.xml,Eusebius,,Demonstratio Evangelica,,160710,tlg2018,tlg2018.tlg005,A.D. 4,3.5,{'3.5': 1},3.5,christian,,,,77658,6326,Theologici
 tlg2018.tlg009.opp-grc1.xml,Eusebius,,De Ecclesiastica Theologia,,19089,tlg2018,tlg2018.tlg009,A.D. 4,3.5,{'3.5': 1},3.5,christian,,,,7579,764,Theologici
@@ -1243,13 +1243,13 @@ tlg2018.tlg022.opp-grc1.xml,Eusebius,,De laudibus Constantini,,23663,tlg2018,tlg
 tlg2021.tlg001.opp-grc1.xml,Epiphanius,,Ancoratus,,64658,tlg2021,tlg2021.tlg001,A.D. 4,3.5,{'3.5': 1},3.5,christian,,,,23079,2993,Scriptores Ecclesiastici
 tlg2021.tlg002.opp-grc1.xml,Epiphanius,,Panarion (Adversus haereses),,323585,tlg2021,tlg2021.tlg002,A.D. 4,3.5,{'3.5': 1},3.5,christian,,,,109198,13190,Scriptores Ecclesiastici
 tlg2021.tlg003.opp-grc1.xml,Epiphanius,,Anacephalaeosis [Sp.],,5184,tlg2021,tlg2021.tlg003,A.D. 4,3.5,{'3.5': 1},3.5,christian,,,,1994,383,Scriptores Ecclesiastici
-tlg2022.tlg003.opp-grc1.xml,Gregorius Nazianzenus,,Christus patiens [Dub.] (fort. auctore Constantino Manasse),,36692,tlg2022,tlg2022.tlg003,A.D. 4,3.5,{'3.5': 1},3.5,christian,,,,13949,4207,Theologici
-tlg2022.tlg007.opp-grc1.xml,Gregorius Nazianzenus,,Adversus Eunomianos (orat. 27),,9044,tlg2022,tlg2022.tlg007,A.D. 4,3.5,{'3.5': 1},3.5,christian,,,,1585,517,Theologici
-tlg2022.tlg008.opp-grc1.xml,Gregorius Nazianzenus,,De Theologia (Orat. 28),,20430,tlg2022,tlg2022.tlg008,A.D. 4,3.5,{'3.5': 1},3.5,christian,,,,4832,1373,Theologici
-tlg2022.tlg009.opp-grc1.xml,Gregorius Nazianzenus,,De Filio (Orat. 29),,14445,tlg2022,tlg2022.tlg009,A.D. 4,3.5,{'3.5': 1},3.5,christian,,,,2930,906,Theologici
-tlg2022.tlg010.opp-grc1.xml,Gregorius Nazianzenus,,De Filio (Orat. 30),,15916,tlg2022,tlg2022.tlg010,A.D. 4,3.5,{'3.5': 1},3.5,christian,,,,3050,993,Theologici
-tlg2022.tlg011.opp-grc1.xml,Gregorius Nazianzenus,,De Spiritu Sancto (Orat. 31),,18168,tlg2022,tlg2022.tlg011,A.D. 4,3.5,{'3.5': 1},3.5,christian,,,,3741,1070,Theologici
-tlg2022.tlg060.1st1K-grc1.xml,pseudo-Menander,,Sententiae = (Carmen morale XXX),,144,tlg2022,tlg2022.tlg060,A.D. 4,3.5,{'3.5': 1},3.5,christian,,,,100,23,Theologici
+tlg2022.tlg003.opp-grc1.xml,Gregory of Nazianzus,,Christus patiens [Dub.] (fort. auctore Constantino Manasse),,36692,tlg2022,tlg2022.tlg003,A.D. 4,3.5,{'3.5': 1},3.5,christian,,,,13949,4207,Theologici
+tlg2022.tlg007.opp-grc1.xml,Gregory of Nazianzus,,Adversus Eunomianos (orat. 27),,9044,tlg2022,tlg2022.tlg007,A.D. 4,3.5,{'3.5': 1},3.5,christian,,,,1585,517,Theologici
+tlg2022.tlg008.opp-grc1.xml,Gregory of Nazianzus,,De Theologia (Orat. 28),,20430,tlg2022,tlg2022.tlg008,A.D. 4,3.5,{'3.5': 1},3.5,christian,,,,4832,1373,Theologici
+tlg2022.tlg009.opp-grc1.xml,Gregory of Nazianzus,,De Filio (Orat. 29),,14445,tlg2022,tlg2022.tlg009,A.D. 4,3.5,{'3.5': 1},3.5,christian,,,,2930,906,Theologici
+tlg2022.tlg010.opp-grc1.xml,Gregory of Nazianzus,,De Filio (Orat. 30),,15916,tlg2022,tlg2022.tlg010,A.D. 4,3.5,{'3.5': 1},3.5,christian,,,,3050,993,Theologici
+tlg2022.tlg011.opp-grc1.xml,Gregory of Nazianzus,,De Spiritu Sancto (Orat. 31),,18168,tlg2022,tlg2022.tlg011,A.D. 4,3.5,{'3.5': 1},3.5,christian,,,,3741,1070,Theologici
+tlg2022.tlg060.1st1K-grc1.xml,Gregory of Nazianzus,,Sententiae = (Carmen morale XXX),,144,tlg2022,tlg2022.tlg060,A.D. 4,3.5,{'3.5': 1},3.5,christian,,,,100,23,Theologici
 tlg2023.tlg002.1st1K-grc1.xml,Iamblichus,,Protrepticus,,31287,tlg2023,tlg2023.tlg002,A.D. 3-4,3,"{'2.5': 0.5, '3.5': 0.5}",3.5,pagan,,,,12239,1835,Philosophici/-ae
 tlg2027.tlg001.1st1K-grc1.xml,Valerius Apsines,,Ars rhetorica,,18543,tlg2027,tlg2027.tlg001,A.D. 3,2.5,{'2.5': 1},,pagan,,,,8323,1055,Rhetorici
 tlg2027.tlg002.1st1K-grc1.xml,Valerius Apsines,,Περὶ τῶν ἐσχηματισμένων προβλημάτων,,1834,tlg2027,tlg2027.tlg002,A.D. 3,2.5,{'2.5': 1},,pagan,,,,862,93,Rhetorici

@@ -1,6 +1,8 @@
-#  Paul 
+#  The Meaning of Paul: A distributional analysis of early Christian Greek literature from the first five centuries 
 
 ---
+This repository contains analyses associated with the article "The Meaning of Paul: A distributional analysis of early Christian Greek literature from the first five centuries", currently under review (March 2022). It contains scripts, data and figures. The scripts are in Python 3 programming language and have form of Jupyter notebooks. All our analyses aim at being fully reproducible and we invite other scholars to reuse our code and data for their analyses.
+
 ## Authors
 * Vojtěch Kaše
 
